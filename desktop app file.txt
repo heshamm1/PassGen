@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name = PassGen
+Vesion = 1.0
+Exec = <python file Path> 
+Icon = <Icon Path>
+Type = Application
+
+#then delete this hint and make file .desktop 
